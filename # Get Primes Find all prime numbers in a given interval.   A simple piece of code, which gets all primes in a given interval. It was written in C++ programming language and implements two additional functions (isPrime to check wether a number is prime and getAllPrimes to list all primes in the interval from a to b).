@@ -1,6 +1,0 @@
-# Get Primes
-Find all prime numbers in a given interval. 
-
-A simple piece of code, which gets all primes in a given interval. It was written in Java programming language and
-implements two additional methods (isPrime to check wether a number is prime and getAllPrimes to list all primes
-in the interval from a to b).
